@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# TraceLens - Developer Profile Explorer
+
+TraceLens - Developer Profile Explorer
 
 TraceLens is a demonstration full-stack application that visualizes developer portfolios, projects, and technologies.
 
