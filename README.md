@@ -40,7 +40,4 @@ The frontend will run on `http://localhost:5173`. Open it in your browser.
 ## Features
 - **Demo Mode**: Includes a fictional developer profile (Alex Morgan) to explore.
 - **Dashboard**: View summary stats, tech stacks, and a timeline.
-- **Relationship Graph**: Interactive node-based visualization using React Flow.
-=======
-# tracelens
->>>>>>> 935860a42440d64721dd55f494e8015ca963ebc1
+- **Relationship Graph**: Interactive node-based visualization using React Flow..
